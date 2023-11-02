@@ -36,7 +36,7 @@ You'll need to import `/data/books.json` to send the books needed
 
 3. Create a route `/last` to fetch the last book
 
-4. Crate a route `/middle` to fetch the book in the middle (number 50 in the array)
+4. Create a route `/middle` to fetch the book in the middle (number 50 in the array)
 
 5. Create a route `/author/dante-alighieri` to fetch **ONLY THE TITLE** of `Dante Alighieri`'s book
 
